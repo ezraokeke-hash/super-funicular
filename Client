@@ -1,0 +1,15 @@
+{
+  "m.homeserver": {
+    "base_url": "https://Ezra.okeke36964576"
+  },
+  "org.matrix.msc2965.authentication": {
+    "issuer": "https://auth.Ezra.okeke36964576/",
+    "account": "https://auth.Ezra.okeke36964576/account"
+  },
+  "org.matrix.msc4143.rtc_foci":[
+    {
+       "type":"livekit",
+       "livekit_service_url":"https://rtc.Ezra.okeke36964576"
+    }
+ ]
+}
